@@ -6,7 +6,7 @@ server:
   port: 8084
 spring:
   application:
-    name: service-feigntwo
+    name: service-feigntwo2
   thymeleaf:
     cache: false
     encoding: UTF-8
